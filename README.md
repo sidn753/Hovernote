@@ -15,6 +15,8 @@ A productivity app to quickly save your notes and thoughts
 
 ![1](screenshots/Picture.png)
 
+The MIT License (MIT)
+
 Copyright (c) 2014 Nima Vaziri
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
